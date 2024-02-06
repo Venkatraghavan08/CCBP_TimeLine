@@ -1,5 +1,5 @@
 // Write your code here
-import {AiFillCalender} from 'react-icons/ai'
+import {AiFillCalendar} from 'react-icons/ai'
 import './index.css'
 
 const ProjectTimeLineCard = props => {
