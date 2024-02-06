@@ -1,5 +1,5 @@
 // Write your code here
-import {AiFillClockCircle} from "react-chrono/ai"
+import {AiFillClockCircle} from "react-icons/ai"
 import index.css
 
 const CourseTimeLineCard=props=>{
